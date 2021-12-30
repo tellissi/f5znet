@@ -1,1 +1,1 @@
-Sitemap: https://f5z.net/f5znet/sitemap.xml
+Sitemap: https://f5z.net/sitemap.xml
